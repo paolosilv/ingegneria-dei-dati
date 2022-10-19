@@ -45,7 +45,7 @@ public class Indexer {
         }
         IndexWriter writer = new IndexWriter(directory, config);
         writer.deleteAll();
-        File[] fileList = listFiles("D:\\txtfiles");
+        File[] fileList = listFiles("src\\main\\resources\\txtfiles");
         if (fileList != null) {
             String queryContent = "";
             for (File file : fileList) {

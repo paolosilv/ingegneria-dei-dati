@@ -1,4 +1,4 @@
-cfs entry for: _2.fld
+cfs entry for: _0.fld
 doc 0
   field 0
     name nome
@@ -144,7 +144,7 @@ doc 10
 Di antiche origini etrusche, presenta un vasto centro storico medievale, con il quartiere di San Pellegrino ben conservato, e cinto da mura quasi perfettamente integre. Viterbo è conosciuta come la città dei Papi: alla fine del XIII secolo fu infatti sede pontificia e per 24 anni il Palazzo Papale ospitò e vide eleggere diversi pontefici. È celebre come città termale e vi ha sede l'Università degli Studi della Tuscia.
 END
 checksum 00000000002650776032
-cfs entry for: _2.inf
+cfs entry for: _0.inf
 number of fields 2
   name nome
   number 0
@@ -179,7 +179,7 @@ number of fields 2
   vector similarity EUCLIDEAN
   soft-deletes false
 checksum 00000000001456767576
-cfs entry for: _2.len
+cfs entry for: _0.len
 field nome
   type NUMERIC
   minvalue 6
@@ -234,7 +234,7 @@ T
 T
 END
 checksum 00000000000969131138
-cfs entry for: _2.pst
+cfs entry for: _0.pst
 field contenuto
   term 009
     doc 5
@@ -6542,16 +6542,16 @@ field nome
 END
 checksum 00000000002980689136
 table of contents, size: 4
-  filename: _2.fld
+  filename: _0.fld
     start: 22
     end: 16415
-  filename: _2.inf
+  filename: _0.inf
     start: 16437
     end: 17215
-  filename: _2.len
+  filename: _0.len
     start: 17237
     end: 17479
-  filename: _2.pst
+  filename: _0.pst
     start: 17501
     end: 99592
 table of contents begins at offset: 0000000000000099592

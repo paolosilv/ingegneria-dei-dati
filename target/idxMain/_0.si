@@ -3,6 +3,12 @@
     number of documents 11
     uses compound file true
     diagnostics 8
+      key lucene.version
+      value 9.4.0
+      key os.version
+      value 10.0
+      key os.arch
+      value amd64
       key os
       value Windows 10
       key java.vendor
@@ -10,19 +16,13 @@
       key java.runtime.version
       value 11.0.7+8-LTS
       key timestamp
-      value 1666213373667
+      value 1666214459387
       key source
       value flush
-      key lucene.version
-      value 9.4.0
-      key os.version
-      value 10.0
-      key os.arch
-      value amd64
     attributes 0
     files 2
-      file _2.si
-      file _2.scf
-    id RëÙW¬¡Ü=‹*êiÊiô
+      file _0.si
+      file _0.scf
+    id ‘pÂ≠Õ¶´es ù±†[“å
     sort 0
-checksum 00000000003774986576
+checksum 00000000003526547980
